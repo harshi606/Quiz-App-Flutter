@@ -1,6 +1,6 @@
-# first_app
+# Quiz-App
 
-A new Flutter project.
+I have completed this small project as part of my learning in Udemy's Flutter and dart-A complete guide course. This covers the basics of flutter and drt.
 
 ## Getting Started
 
